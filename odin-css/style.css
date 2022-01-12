@@ -1,0 +1,26 @@
+.number1,
+.number3,
+.number5{
+    font-size: 36px;
+    background-color: #A6065A;
+    font-family: "Chilanka", "DejaVu Sans", "sans-serif";
+}
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+   
+}
+
+#number3 {
+    font-size: 36px;
+   
+}
+
+div class  {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    align: center;
+    font weight: bold;
+}
